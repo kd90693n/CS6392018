@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UISample</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="main_message">Kevin\nDelgado</string>
+    <string name="right_message">CS639</string>
+</resources>
