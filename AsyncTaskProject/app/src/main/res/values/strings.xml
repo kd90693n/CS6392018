@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTaskProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="img_description">Image should publish here</string>
+    <string name="img_title">Image from place of birth</string>
+    <string name="img_desc">This is an image from the streets of 167th Street in The Bronx. A very lively neighborhood.</string>
+</resources>
