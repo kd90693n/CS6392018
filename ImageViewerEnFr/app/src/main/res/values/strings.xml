@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Star Wars Characters</string>
+    <string name="action_settings">Settings</string>
+    <string name="boss_nass">Boss Nass</string>
+    <string name="darth_maul">Darth Maul</string>
+    <string name="han_solo">Han Solo</string>
+    <string name="watto">Watto</string>
+    <string name="wookie">Wookie</string>
+    <string name="main_content">These are my top favorite characters</string>
+</resources>

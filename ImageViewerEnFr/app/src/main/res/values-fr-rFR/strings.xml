@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personnages Star Wars</string>
+    <string name="darth_maul">Darth Maul</string>
+    <string name="han_solo">Han Solo</string>
+    <string name="watto">Watto</string>
+    <string name="wookie">Wookie</string>
+    <string name="boss_nass">Boss Nass</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="main_content">Ce sont mes meilleurs personnages préférés</string>
+</resources>
